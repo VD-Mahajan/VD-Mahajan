@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Vishal Mahajan
 - 👀 I’m interested in Mobile app development
-- 🌱 I’m currently learning Flutter,Java & MySQL 
+- 🌱 I’m currently learning Flutter
 - 📫 Reach me through linkedin.com/in/vishal-mahajan-494354215   
